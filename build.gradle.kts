@@ -8,7 +8,7 @@ plugins {
     kotlin("plugin.jpa") version "1.9.21" apply false
 
     // Quality and Security plugins
-    id("org.sonarqube") version "4.4.1.3373"
+    id("org.sonarqube") version "6.3.1.5724"
     id("jacoco")
     id("io.gitlab.arturbosch.detekt") version "1.23.4"
     id("org.jlleitschuh.gradle.ktlint") version "11.6.1"
