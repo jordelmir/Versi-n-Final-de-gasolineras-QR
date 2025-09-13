@@ -12,7 +12,7 @@ plugins {
     id("jacoco")
     id("io.gitlab.arturbosch.detekt") version "1.23.4"
     id("org.jlleitschuh.gradle.ktlint") version "11.6.1"
-    id("com.github.ben-manes.versions") version "0.50.0"
+    id("com.github.ben-manes.versions") version "0.52.0"
     id("org.owasp.dependencycheck") version "9.0.7"
     id("com.gorylenko.gradle-git-properties") version "2.4.1"
 }
