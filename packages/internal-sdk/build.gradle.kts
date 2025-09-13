@@ -1,6 +1,6 @@
 plugins {
     id("java-library")
-    id("org.jetbrains.kotlin.jvm") version "1.9.24" // Use the same Kotlin version as other services
+    id("org.jetbrains.kotlin.jvm") version "1.9.25" // Use the same Kotlin version as other services
 }
 
 group = "com.gasolinerajsm"
