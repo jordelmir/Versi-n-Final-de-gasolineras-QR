@@ -20,7 +20,7 @@ dependencies {
 
     // Dependencies required by the generated code (e.g., Spring, Jackson, etc.)
     implementation("org.springframework.boot:spring-boot-starter-web:3.3.3") // Use the same Spring Boot version as services
-    implementation("com.fasterxml.jackson.module:jackson-module-kotlin:2.15.2") // Use the same Jackson version
+    implementation("com.fasterxml.jackson.module:jackson-module-kotlin:2.20.0") // Use the same Jackson version
     implementation("org.jetbrains.kotlin:kotlin-reflect:1.9.24") // Use the same Kotlin version
     implementation("jakarta.validation:jakarta.validation-api:3.0.2") // For @Valid annotations
     implementation("io.swagger.parser.v3:swagger-parser:2.1.10") // For OpenAPI annotations
