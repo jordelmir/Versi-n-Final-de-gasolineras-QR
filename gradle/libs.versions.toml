@@ -2,7 +2,7 @@
 kotlin = "1.9.24"
 springBoot = "3.3.3"
 springDependencyManagement = "1.1.6"
-detekt = "1.23.6"
+detekt = "1.23.8"
 micrometer = "1.13.1"
 opentelemetry = "1.40.0"
 postgresql = "42.7.3"
